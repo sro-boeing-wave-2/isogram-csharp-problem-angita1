@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\isogram\Isogram.csproj" />
+    <ProjectReference Include="..\Isogram\Isogram.csproj" />
   </ItemGroup>
 
 </Project>
